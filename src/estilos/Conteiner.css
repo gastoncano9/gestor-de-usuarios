@@ -1,0 +1,9 @@
+.contenedor
+{
+    padding: 30px;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}

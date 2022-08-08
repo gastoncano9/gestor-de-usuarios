@@ -1,0 +1,25 @@
+.contenedor-input
+{
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+}
+
+.contenedor-input label
+{
+    display: block;
+    width: 100%;
+    text-align: center;
+    color: black;
+    margin-bottom: 4px;
+    font-size: 17px;
+}
+
+.contenedor-input input
+{
+    width: 80%;
+    padding: 5px 15px;
+    border: 1px solid #22A7F2;
+    border-radius: 15px;
+}
